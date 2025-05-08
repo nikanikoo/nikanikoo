@@ -8,7 +8,7 @@
 
 ### 👨‍💻 About Me
 
-- 💼 I’m currently working on: `small projects and improving your skills`
+- 💼 I’m currently working on: `small projects and improving skills`
 - 🌱 I’m learning: `Technology or concept you're learning`
 - 🤝 I'm open to: `Collaboration / Freelance / Communication`
 - 🧠 Interests: `Telegram/Discord bot's`, `Game Dev`, `Endent`, `etc.`
@@ -32,7 +32,7 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nikanikoo&show_icons=true&theme=tokyonight" alt="ваш_ник GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=nikanikoo&show_icons=true&theme=tokyonight" alt="nikanikoo GitHub stats" />
 </p>
 
 ---

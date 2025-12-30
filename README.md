@@ -39,8 +39,7 @@
 
 ### 📫 Get in Touch
 
-- Portfolio: `soon`
-- Email: `nika@inkslate.ru`
+- Email: `soon`
 - Telegram: [@seni4e4ka](https://t.me/seni4e4ka)
 
 ---

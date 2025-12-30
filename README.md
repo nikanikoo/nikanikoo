@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋, I'm Nika Falaleeva</h1>
 
 <p align="center">
-  18 years old, I'm doing well in everything
+  I'm doing well in everything
 </p>
 
 ---

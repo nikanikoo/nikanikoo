@@ -24,7 +24,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40"/>
-  <!-- Добавьте свои иконки -->
 </p>
 
 ---
@@ -39,8 +38,8 @@
 
 ### 📫 Get in Touch
 
-- Email: `soon`
-- Telegram: [@seni4e4ka](https://t.me/seni4e4ka)
+- Email: `falaleeva.nika@outlook.com`
+- Telegram: [@navibecodila](https://t.me/navibecodila)
 
 ---
 
